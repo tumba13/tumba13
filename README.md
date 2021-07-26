@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/your_profile">
-  <img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/p/CRLz9wQpmvA/?utm_source=ig_web_copy_link" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/p/CRLz9wQpmvA" />
 </a>
 
 <br />
